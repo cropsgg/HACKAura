@@ -39,7 +39,7 @@ To revolutionize lunar exploration by providing autonomous rovers with the intel
 │                              TARA Navigation System                            │
 ├─────────────────────────────────────────────────────────────────────────────────┤
 │  Frontend Layer (React + TypeScript)                                          │
-│  ├── Path Finder Module          - Intelligent navigation interface            │
+│  ├── Path Finder Module          - Intelligent navigation interface           │
 │  ├── Orchestrator Dashboard      - Real-time system monitoring                │
 │  ├── Data Transfer Interface     - Secure blockchain communication            │
 │  └── Detection System            - Computer vision & object detection         │
@@ -47,7 +47,7 @@ To revolutionize lunar exploration by providing autonomous rovers with the intel
 │  Backend Layer (Python + FastAPI)                                             │
 │  ├── Lunar Rover Orchestrator    - Main mission coordination system           │
 │  ├── Battery Management          - Intelligent power management               │
-│  ├── ML Pathfinding System       - Advanced AI-based navigation              │
+│  ├── ML Pathfinding System       - Advanced AI-based navigation               │
 │  ├── Heuristic Detector          - Low-power fallback system                  │
 │  └── Integrated System           - Combined approach coordination             │
 ├─────────────────────────────────────────────────────────────────────────────────┤
@@ -636,5 +636,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
   <p>
     <em>Advancing lunar exploration through intelligent terrain analysis • Powered by advanced ML and blockchain technology</em>
+  </p>
+  <p>
+    Built with ❤️ for HACKAura 5.0
   </p>
 </div>
