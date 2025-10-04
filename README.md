@@ -36,29 +36,29 @@ To revolutionize lunar exploration by providing autonomous rovers with the intel
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│                              TARA Navigation System                            │
+│                              TARA Navigation System                             │
 ├─────────────────────────────────────────────────────────────────────────────────┤
-│  Frontend Layer (React + TypeScript)                                          │
-│  ├── Path Finder Module          - Intelligent navigation interface           │
-│  ├── Orchestrator Dashboard      - Real-time system monitoring                │
-│  ├── Data Transfer Interface     - Secure blockchain communication            │
-│  └── Detection System            - Computer vision & object detection         │
+│  Frontend Layer (React + TypeScript)                                            │
+│  ├── Path Finder Module          - Intelligent navigation interface             │
+│  ├── Orchestrator Dashboard      - Real-time system monitoring                  │
+│  ├── Data Transfer Interface     - Secure blockchain communication              │
+│  └── Detection System            - Computer vision & object detection           │
 ├─────────────────────────────────────────────────────────────────────────────────┤
-│  Backend Layer (Python + FastAPI)                                             │
-│  ├── Lunar Rover Orchestrator    - Main mission coordination system           │
-│  ├── Battery Management          - Intelligent power management               │
-│  ├── ML Pathfinding System       - Advanced AI-based navigation               │
-│  ├── Heuristic Detector          - Low-power fallback system                  │
-│  └── Integrated System           - Combined approach coordination             │
+│  Backend Layer (Python + FastAPI)                                               │
+│  ├── Lunar Rover Orchestrator    - Main mission coordination system             │
+│  ├── Battery Management          - Intelligent power management                 │
+│  ├── ML Pathfinding System       - Advanced AI-based navigation                 │
+│  ├── Heuristic Detector          - Low-power fallback system                    │
+│  └── Integrated System           - Combined approach coordination               │
 ├─────────────────────────────────────────────────────────────────────────────────┤
-│  Smart Contracts (Solidity)                                                   │
-│  ├── ISRO Token (ERC20)          - Token staking and rewards                  │
-│  └── Data Transfer Contract      - Secure mission data management             │
+│  Smart Contracts (Solidity)                                                     │
+│  ├── ISRO Token (ERC20)          - Token staking and rewards                    │
+│  └── Data Transfer Contract      - Secure mission data management               │
 ├─────────────────────────────────────────────────────────────────────────────────┤
-│  Blockchain Infrastructure (Avalanche)                                        │
-│  ├── Avalanche Fuji Testnet      - Development and testing network            │
-│  ├── ISRO Private Subnet         - Production-ready private network           │
-│  └── 4 Validator Nodes           - Distributed consensus mechanism            │
+│  Blockchain Infrastructure (Avalanche)                                          │
+│  ├── Avalanche Fuji Testnet      - Development and testing network              │
+│  ├── ISRO Private Subnet         - Production-ready private network             │
+│  └── 4 Validator Nodes           - Distributed consensus mechanism              │
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
