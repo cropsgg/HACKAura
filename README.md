@@ -638,6 +638,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <em>Advancing lunar exploration through intelligent terrain analysis • Powered by advanced ML and blockchain technology</em>
   </p>
   <p>
-    Built with ❤️ for HACKAura 5.0
+    Built with ❤️ for HACKAura 
   </p>
 </div>
