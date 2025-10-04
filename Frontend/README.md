@@ -455,6 +455,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <strong>TARA</strong> - Pioneering the future of autonomous lunar exploration
   </p>
   <p>
-    Built with ❤️ for HackOdisha 5.0
+    Built with ❤️ for HACKAura 5.0
   </p>
 </div>
